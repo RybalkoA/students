@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\Users\Admin\Documents\GitHub\students\іstud.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/students/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/students/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";P:\home\localhost\www\students\scripts\folder0;"/><added value=""/><lastopfiles>
+		<file name="C:\Users\Admin\Documents\GitHub\students\index.html"/>
+	</lastopfiles>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="/scripts/connect.php;PHP:PHP Include;C:\Users\Admin\Documents\GitHub\students\spisok.php;f8;1;28;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="/scripts/spisok.php;PHP:PHP Include;C:\Users\Admin\Documents\GitHub\students\spisok.php;f8;2;27;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="/view/spisok.php;PHP:PHP Include;C:\Users\Admin\Documents\GitHub\students\spisok.php;f8;4;24;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="/scripts/connect.php;PHP:PHP Include;P:\home\localhost\www\students\Codelobster0.php;f8;1;28;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="/scripts/del.php;PHP:PHP Include;P:\home\localhost\www\students\Codelobster0.php;f8;2;24;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="connect.php;PHP:PHP Include;C:\Users\Admin\Documents\GitHub\students\scripts\newst.php;f9;1;20;1;;C:\Users\Admin\Documents\GitHub\students\scripts\edit.php;f9;14;20;14;;C:\Users\Admin\Documents\GitHub\students\scripts\del.php;f9;19;20;19;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="Index;PHP:Class Name;P:\home\localhost\www\students\controllers\index.php;f2;1;3;5;;;;vpos;;v;;r;;d14,1;;b0,0;;m">
+				<treenode node="__construct;PHP:Function Name;P:\home\localhost\www\students\controllers\index.php;f10;2;4;4;;;;vpos;;v;;r;;d33,2;;b1,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="spisok;PHP:Function Name;C:\Users\Admin\Documents\GitHub\students\scripts\spisok.php;f0;2;1;11;;;;vpos;;v;;r;;d17,2;;b0,0;;m">
+				<treenode node="query;PHP:Var Name;P:\home\localhost\www\students\scripts\spisok.php;f0;3;6;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="res;PHP:Var Name;P:\home\localhost\www\students\scripts\spisok.php;f0;4;4;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="ret;PHP:Var Name;P:\home\localhost\www\students\scripts\spisok.php;f0;6;4;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="row;PHP:Var Name;P:\home\localhost\www\students\scripts\spisok.php;f16;7;20;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="_GET;PHP:Var Name;C:\Users\Admin\Documents\GitHub\students\scripts\edit.php;f58;20;63;20;;C:\Users\Admin\Documents\GitHub\students\scripts\del.php;f40;20;45;20;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="_POST;PHP:Var Name;C:\Users\Admin\Documents\GitHub\students\scripts\newst.php;f14;3;20;3;;C:\Users\Admin\Documents\GitHub\students\scripts\edit.php;f4;16;10;16;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="age;PHP:Var Name;C:\Users\Admin\Documents\GitHub\students\scripts\newst.php;f0;6;4;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="del;PHP:Var Name;C:\Users\Admin\Documents\GitHub\students\scripts\del.php;f0;20;4;20;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="faculty;PHP:Var Name;C:\Users\Admin\Documents\GitHub\students\scripts\newst.php;f0;8;8;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="first_name;PHP:Var Name;C:\Users\Admin\Documents\GitHub\students\scripts\newst.php;f0;3;11;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="grupa;PHP:Var Name;C:\Users\Admin\Documents\GitHub\students\scripts\newst.php;f0;7;6;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="insert_sql;PHP:Var Name;C:\Users\Admin\Documents\GitHub\students\scripts\newst.php;f0;9;11;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="last_name;PHP:Var Name;C:\Users\Admin\Documents\GitHub\students\scripts\newst.php;f0;4;10;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="new_s;PHP:Var Name;C:\Users\Admin\Documents\GitHub\students\view\spisok.php;f26;19;32;19;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="new_st;PHP:Var Name;C:\Users\Admin\Documents\GitHub\students\view\spisok.php;f15;19;22;19;;C:\Users\Admin\Documents\GitHub\students\spisok.php;f0;3;7;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="query;PHP:Var Name;C:\Users\Admin\Documents\GitHub\students\scripts\edit.php;f1;17;7;17;;C:\Users\Admin\Documents\GitHub\students\scripts\del.php;f0;22;6;22;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="res;PHP:Var Name;C:\Users\Admin\Documents\GitHub\students\scripts\edit.php;f0;21;4;21;;C:\Users\Admin\Documents\GitHub\students\scripts\del.php;f0;23;4;23;;;;vposresource;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="row;PHP:Var Name;C:\Users\Admin\Documents\GitHub\students\scripts\edit.php;f0;22;4;22;;C:\Users\Admin\Documents\GitHub\students\scripts\del.php;f0;24;4;24;;;;vposint;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="sex;PHP:Var Name;C:\Users\Admin\Documents\GitHub\students\scripts\newst.php;f0;5;4;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\Users\Admin\Documents\GitHub\students\view\spisok.php" crc="1304290922"/>
+		<file name="C:\Users\Admin\Documents\GitHub\students\scripts\spisok.php" crc="2045155297"/>
+		<file name="C:\Users\Admin\Documents\GitHub\students\scripts\newst.php" crc="1230018654"/>
+		<file name="C:\Users\Admin\Documents\GitHub\students\scripts\edit.php" crc="-577572118"/>
+		<file name="C:\Users\Admin\Documents\GitHub\students\scripts\del.php" crc="-2135216725"/>
+		<file name="C:\Users\Admin\Documents\GitHub\students\scripts\connect.php" crc="-564051322"/>
+		<file name="C:\Users\Admin\Documents\GitHub\students\style1.css" crc="795214688"/>
+		<file name="C:\Users\Admin\Documents\GitHub\students\style.css" crc="-1932226520"/>
+		<file name="C:\Users\Admin\Documents\GitHub\students\spisok.php" crc="641079320"/>
+	</filescache>
+</project>

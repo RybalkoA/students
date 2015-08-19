@@ -1,0 +1,25 @@
+		
+table {
+	width: 750px;
+	background:#92ecfc;
+	border-collapse: collapse;
+	}
+	td {
+		border:1px solid #671453;
+	}
+	th {
+		border:1px solid #671453;
+	}
+	p  {
+		
+		padding-left: 40px;
+	}
+	body {
+		background:#6a9d62
+	}
+	input{
+		background:#9fa2a8
+	}
+	input>submit{
+		background:#dccef7
+	}
